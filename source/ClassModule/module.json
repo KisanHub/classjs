@@ -1,0 +1,22 @@
+{
+	"ClassModule":
+	[
+		{
+			"polyfills":
+			[
+				"String.fromCodePoint"
+			]
+		},
+		"functionName",
+		"default",
+		"isUndefined",
+		"template",
+		"safeHasOwnProperty",
+		"Object",
+		"Exception",
+		"TemplatedException",
+		"IllegalArgumentException",
+		"ToDoException",
+		"VirtualMethodException"
+	]
+}
