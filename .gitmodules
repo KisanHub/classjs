@@ -1,0 +1,3 @@
+[submodule "tools/developjs"]
+	path = tools/developjs
+	url = https://github.com/KisanHub/developjs.git
