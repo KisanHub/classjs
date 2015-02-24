@@ -1,0 +1,47 @@
+{
+	"name": "mongojs",
+	"description": "A Class and Exception framework for JavaScript",
+	"license":
+	[
+		"MIT"
+	],
+	"homepage": "https://github.com/KisanHub/classjs",
+	"repository":
+	{
+		"type": "git",
+		"url": "git://github.com/KisanHub/classjs.git"
+	},
+	"keywords":
+	[
+		"class",
+		"exception"
+	],
+	"authors":
+	[
+		{
+			"name": "KisanHub",
+			"email": "sachin@kisanhub.com"
+		},
+		{
+			"name": "Raphael Cohn",
+			"email": "raphael.cohn@stormmq.com"
+		}
+	],
+	"main":
+	[
+		"output/ClassModule.js"
+	],
+	"ignore":
+	[
+		"miscellany",
+		"source",
+		"tools"
+	],
+	"dependencies":
+	{
+	},
+	"devDependencies":
+	{
+		"developjs": "https://github.com/KisanHub/developjs.git"
+	}
+}
