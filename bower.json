@@ -29,6 +29,7 @@
 	],
 	"main":
 	[
+		"release/ClassModule.js"
 	],
 	"ignore":
 	[
