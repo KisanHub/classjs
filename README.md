@@ -174,7 +174,7 @@ module.BaseClass.extend
 		var supercallResult = this.supercall(getName, 'hello')
 		// or getName.$.getName.call(this, 'hello')  - this syntax allows access to any method, not just getName, eg the super class's
 		// getSomething is accessible via getName.$.getSomething.call(this) 
-		return "SubClass(" + this.getId() + ") extends " + this.supercall(getName)
+		return "SubClass(" + this.getSomething() + ") extends " + this.supercall(getName)
 	},
 
 	function getSomething()
